@@ -15,5 +15,5 @@ Feature Ideas / To Do
 Technologies Used
       > Frontend : Next.js v12
       > Backend : NodeJs
-      > Database: 
+      > Database: TBD but probably MongoDB or Firebase
       > Tools : TailwindCSS
